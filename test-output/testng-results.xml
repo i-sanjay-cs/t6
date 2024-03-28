@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T21:26:24 IST" name="Default suite" finished-at="2024-03-28T21:26:30 IST" duration-ms="5282">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T21:26:24 IST" name="Default test" finished-at="2024-03-28T21:26:30 IST" duration-ms="5282">
+      <class name="task.jenkins.jen_task">
+        <test-method signature="testLogin()[pri:0, instance:task.jenkins.jen_task@3d74bf60]" started-at="2024-03-28T21:26:24 IST" name="testLogin" finished-at="2024-03-28T21:26:30 IST" duration-ms="5240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- task.jenkins.jen_task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

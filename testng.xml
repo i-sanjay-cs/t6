@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Selenium Tests">
+    <test name="Selenium Test">
+        <classes>
+            <class name="task.jenkins.jen_task"/>
+        </classes>
+    </test>
+</suite>
